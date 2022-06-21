@@ -1,6 +1,6 @@
 # Tugas Praktikum Mobile Programming 
 
-A new Flutter project created with https://flutlab.io
+Untuk tampilan program ada di SS program.jpg
 
 ## Getting Started
 
